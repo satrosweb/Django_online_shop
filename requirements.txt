@@ -1,0 +1,5 @@
+Django~=4.1.0
+sqlparse==0.4.2
+Pillow==9.2.0
+flower==1.2.0
+stripe==4.0.2
